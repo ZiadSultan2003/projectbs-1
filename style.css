@@ -1,0 +1,42 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.back-1 {
+
+    background: linear-gradient(to left, rgb(105, 62, 27, 0.5), rgb(105, 62, 27, 5)), url("./imgs/WhatsApp\ Image\ 2023-07-24\ at\ 2.31.18\ AM.jpeg");
+    background-size: cover;
+    background-position: center;
+    min-height: 100%;
+}
+
+.About {
+    margin-top: 20%;
+}
+
+.ELEA {
+    color: #9b8336;
+}
+
+h4 {
+    border: dashed blue 3px;
+    display: inline-block;
+    color: blue;
+    width: 28%;
+}
+
+a {
+
+    text-decoration: none;
+    color: white;
+}
+
+.card-time {
+    background-color: #9b8336;
+}
+
+.ground-5 {
+    background-color: #f4f4fe;
+}
